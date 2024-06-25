@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+}
+.button{
+    background-color: rgb(181, 179, 179);
+    width: 4rem;
+    height: 4rem;
+    border-radius: 40px;
+    margin: 5px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    width: 16rem;
+    height: 1.8rem;
+    margin: 1rem;
+    border-radius: 13px;
+    padding: 10px;
+    font-size: 25px;
+    
+}
